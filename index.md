@@ -3,6 +3,6 @@
 ## Amazon Products
 - **Audible @ ₹2** Audible is a great audiobook platform that lets you listen to the audio versions of books. It usually costs INR 199/month but Amazon is offering a four-month trial period at just INR 2. Yes, just two rupees and you can get access to one free audiobook every month. You would have to link your credit card to enable the trial.
 [Buy Audible](https://amzn.to/3i1TDeW)
-- Buy Fire TV Stick 3rd Gen on Amazon (~~INR 3,999~~ | INR 2,499) https://amzn.to/3eXM32W
-- Buy Echo Dot 3 on Amazon (~~INR 3,599~~ | INR 2,299)
-- Buy Kindle on Amazon (~~INR 7,999~~ | INR 6,299)
+- **Fire TV Stick 3rd Gen on Amazon @ ₹2399** - https://amzn.to/3eXM32W
+- **Echo Dot (3rd Gen) @ ₹2,299** -https://amzn.to/3kX470X
+- **Kindle (10th Gen) @ ₹6299** - https://amzn.to/3zQ7XNN
